@@ -2,7 +2,7 @@
 A thermal image dataset of CFRP with three subsurface defects.
 
 
-# Use commitment: 
+# Commitment to use: 
 (1) not to privately disseminate this dataset 
 (2) this dataset is for academic research only, commercial use or commercial dissemination is strictly prohibited.
 
